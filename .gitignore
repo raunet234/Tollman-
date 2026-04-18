@@ -1,0 +1,9 @@
+node_modules/
+.env
+.DS_Store
+dist/
+build/
+error.txt
+prompt.txt
+direction.txt
+screenshots/
